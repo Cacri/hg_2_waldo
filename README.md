@@ -1,7 +1,8 @@
 # hg_2_waldo
 
-🗿 ECHO
-Nombre	Alias	Ubicación
-Ernesto Zanza	Echo	Venezuela
-Alejandro Arreaza	Bravo	Venezuela
-Alberto Toledo	Charlie	Venezuela
+# 🗿  Waldo
+| *Nombre*  | *Alias* | *Ubicacion* |
+| ------------- | ------------- | ------------- |
+| Ernesto Zanza  | fred  | Venezuela |
+| Alejandro Arreaza | Waldo  | Venezuela |
+| Alberto Toledo | foobar  | Venezuela |
